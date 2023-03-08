@@ -13,6 +13,7 @@
 作物  | 农作物名称及品种
 
 标注样例如下图所示：
+
 ![在这里插入图片描述](https://img-blog.csdnimg.cn/6684c98d900542f3a6f8234d6395238a.png#pic_center)
 
 现将自建的数据集公开，供各位同仁使用及指正以作学术研究之用，欢迎大家补充数据集，链接如下。https://pan.baidu.com/s/1bKvQkAQEBYfq5OfsHJJuZA 
